@@ -15,6 +15,7 @@ A highly configurable web application for viewing JSON datasets in a themeable f
 
 - [ICWATCH](https://icwatch.wikileaks.org)
 - [Snowden Doc Search](https://search.edwardsnowden.com)
+- [Surveillance Industry Index](https://sii.transparencytoolkit.org)
 
 **Technical**
 
