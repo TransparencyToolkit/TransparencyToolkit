@@ -13,6 +13,4 @@ Transparency Toolkit is data collection, archiving, and analytics software for j
 
 4. Use Transparency Toolkit: Go to [http://0.0.0.0:3333](http://0.0.0.0:3333) in your browser. From there, you can collect data, OCR documents, and use archiving and analytical tools.
 
-This repository is to outline, project manage, and issue track all the various tools [TransparencyToolkit](https://transparencytoolkit.org) is creating.
-
-If you encounter any difficulties in setup, have feature requests or ideas for projects, or are interested in collaborating or contributing, please [contact us](info@transparencytoolkit.org) 
+If you encounter any difficulties in setup, have feature requests or ideas for projects, or are interested in collaborating or contributing, please [contact us](info@transparencytoolkit.org).
