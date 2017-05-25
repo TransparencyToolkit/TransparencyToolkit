@@ -1,5 +1,7 @@
-Project
-=======
+Transparency Toolkit
+====================
+
+Transparency Toolkit is data collection, archiving, and analytics software for journalists, activists, and human rights researchers. This repository is the central place to download and run all of our tools.
 
 This repository is to outline, project manage, and issue track all the various tools [TransparencyToolkit](https://transparencytoolkit.org) is creating.
 

@@ -1,0 +1,9 @@
+[submodule "Harvester"]
+	path = Harvester
+	url = https://github.com/TransparencyToolkit/Harvester.git
+[submodule "DocManager"]
+	path = DocManager
+	url = https://github.com/TransparencyToolkit/DocManager.git
+[submodule "LookingGlass"]
+	path = LookingGlass
+	url = https://github.com/TransparencyToolkit/LookingGlass.git
